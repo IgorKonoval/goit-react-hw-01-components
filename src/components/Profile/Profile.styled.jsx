@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const ProfileContainer = styled.div`
   width: 400px;
-  margin: auto;
+  margin: 30px auto;
   padding: 20px;
   background-color: rgb(235, 238, 241);
   display: flex;
@@ -11,8 +11,7 @@ export const ProfileContainer = styled.div`
 `;
 
 export const ProfileDescription = styled.div`
-  width: 200px;
-  height: 250px;
+  width: 250px;
   background-color: white;
   margin: auto;
   padding: 20px;
@@ -46,7 +45,7 @@ export const ProfileLocation = styled.p`
 `;
 
 export const ProfileStats = styled.ul`
-  width: 241px;
+  width: 250px;
   height: 70px;
   display: flex;
   justify-content: center;

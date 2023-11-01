@@ -23,7 +23,6 @@ export const Profile = ({
         <ProfileTag>@{tag}</ProfileTag>
         <ProfileLocation>{location}</ProfileLocation>
       </ProfileDescription>
-
       <ProfileStats>
         <ProfileList>
           <ProfileLabel>Followers</ProfileLabel>
